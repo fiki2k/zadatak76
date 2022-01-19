@@ -1,2 +1,2 @@
 # zadatak76
-Program treba izračunat volumen valjka.
+Program treba izračunat volumen kvadra.
